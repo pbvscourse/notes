@@ -4,7 +4,7 @@ numbering: false
 
 # Advice to the Student
 
-EECS 245 was first offered in Fall 2025 at the University of Michigan. At the end of that semester, we asked students for advice to relay to future students. Here are some (unedited) responses we received.
+ROB 498/599 is offered at the University of Michigan. Here are some (unedited) student responses about working with course notes.
 
 > The only time where reading the notes is a lot more helpful than you think - read the notes.
 

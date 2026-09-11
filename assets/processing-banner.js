@@ -1,6 +1,6 @@
 (() => {
   const BANNER_TEXT =
-    "Note: This section may be updated between now and the corresponding lecture. See eecs245.org for the course schedule.";
+    "Note: This section may be updated between now and the corresponding lecture. See the course website for the schedule.";
   const BANNER_ID = "processing-banner";
 
   const showBanner = () => {
