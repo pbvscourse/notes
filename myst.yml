@@ -9,7 +9,6 @@ project:
       path: ./plugins/activities-toc-headings.mjs
   toc:
     - file: index.ipynb
-    - file: advice.md
     - title: "Chapter 0: Vision Fundamentals"
       children:
         - file: 01_introduction_to_supervised_learning/01-what-is-machine-learning.ipynb
